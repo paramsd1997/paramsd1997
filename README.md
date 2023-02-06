@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paramsd1997
+- 👋 Hi, I’m @param
 - 👀 I’m interested in DevOps tools
 - 🌱 I’m currently learning Powershell & IIS
 - 💞️ I’m looking to collaborate with SRE
