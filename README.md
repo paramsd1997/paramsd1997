@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://visitcount.itsvg.in/api?id=paramsd1997&label=Profile%20Views&color=3&pretty=true" />
 </a>
 
-
+[![](https://visitcount.itsvg.in/api?id=paramsd1997&label=Profile%20Views&color=3&pretty=true)](https://visitcount.itsvg.in)
 
 ### 🛠 DevOps Tools:
 <p align="left">
