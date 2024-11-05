@@ -28,6 +28,10 @@ You can click the Preview link to take a look at your changes.
 
 [![](https://visitcount.itsvg.in/api?id=paramsd1997&label=Profile%20Views&color=3&pretty=true)](https://visitcount.itsvg.in)
 
+### Contact ## 
+<a href="https://param036.hashnode.dev/"> Tech Blogs </a>
+
+
 ### 🛠 DevOps Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
