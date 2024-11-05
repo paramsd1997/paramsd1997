@@ -30,7 +30,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Contact ## 
 <a href="https://param036.hashnode.dev/"> Tech Blogs </a>
-
+<a href="https://linktr.ee/param1997/"> Connect me ! </a>
+<a href="https://linkedin.com/in/parmeshwar-devane-25843b175"> LinkedIn </a>
 
 ### 🛠 DevOps Tools:
 <p align="left">
