@@ -28,10 +28,39 @@ You can click the Preview link to take a look at your changes.
 
 [![](https://visitcount.itsvg.in/api?id=paramsd1997&label=Profile%20Views&color=3&pretty=true)](https://visitcount.itsvg.in)
 
-### Contact ## 
-<a href="https://param036.hashnode.dev/"> Tech Blogs </a>
-<a href="https://linktr.ee/param1997/"> Connect me ! </a>
-<a href="https://linkedin.com/in/parmeshwar-devane-25843b175"> LinkedIn </a>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Links</title>
+    <style>
+        a {
+            font-weight: bold;
+            padding: 10px;
+            text-decoration: none;
+            color: black;
+            border: 2px solid black;
+            margin-right: 10px; /* Adds space between the links */
+        }
+
+        a:hover {
+            color: white;
+            background-color: black;
+        }
+    </style>
+</head>
+<body>
+
+    <h3>Contact</h3>
+    <a href="https://param036.hashnode.dev/">Tech Blogs</a>
+    <a href="https://linktr.ee/param1997/">Connect me!</a>
+    <a href="https://linkedin.com/in/parmeshwar-devane-25843b175">LinkedIn</a>
+
+</body>
+</html>
+
 
 ### 🛠 DevOps Tools:
 <p align="left">
