@@ -1,7 +1,8 @@
 ### 👋 Welcome to my GitHub!
 
 **🚀 DevOps | Cloud Enthusiast | AI Enthusiast**
-With a strong foundation in DevOps, Cloud Computing, and AI,
+
+   With a strong foundation in DevOps, Cloud Computing, and AI,
  I leverage cutting-edge technologies to streamline infrastructure management, automate workflows, and drive innovation in cloud-based environments. As a **Top Voice on LinkedIN in DevOps** ,
  I’m passionate about empowering the tech community through knowledge-sharing, hands-on projects, and thought leadership.
 
