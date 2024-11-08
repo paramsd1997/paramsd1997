@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 
 
 [![](https://visitcount.itsvg.in/api?id=paramsd1997&label=Profile%20Views&color=3&pretty=true)](https://visitcount.itsvg.in)
-https://img.shields.io/github/followers/paramsd1997?style=flat-square&logo=github
+![Github](https://img.shields.io/github/followers/paramsd1997?style=flat-square&logo=github)
 
 ### Contact  
 <a href="https://param036.hashnode.dev/">Tech Blogs</a>  
