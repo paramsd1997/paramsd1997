@@ -1,6 +1,5 @@
 ![](/assets/Yellow%20and%20Black%20Global%20Response%20Engineer%20LinkedIn%20Banner.png)
-[![Gmail](https://img.shields.io/badge/-Gmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:paramsd1997@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parmeshwar-devane-25843b175)
+
 
 <img align= "right" src="https://proeffico.com/wp-content/uploads/2023/10/devOps-trends.gif " alt="DevOps" width="400" height="400"/>
 
@@ -26,6 +25,9 @@
 
 ### 🤝 Let’s Collaborate:
 I’m always open to collaborating on exciting projects in **Cloud, DevOps, AI**, and **Automation**. Feel free to connect or check out my repositories for more!
+
+[![Gmail](https://img.shields.io/badge/-Gmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:paramsd1997@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parmeshwar-devane-25843b175)
 
 <!---
 paramsd1997/paramsd1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
