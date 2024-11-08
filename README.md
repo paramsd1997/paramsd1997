@@ -2,6 +2,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:paramsd1997@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parmeshwar-devane-25843b175)
 
+<img align= "right" src="https://proeffico.com/wp-content/uploads/2023/10/devOps-trends.gif " alt="DevOps" width="400" height="400"/>
 
 ### 👋 Welcome to my GitHub!
 
