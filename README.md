@@ -1,7 +1,6 @@
 ![](/assets/Yellow%20and%20Black%20Global%20Response%20Engineer%20LinkedIn%20Banner.png)
 <img align= "right" src="https://proeffico.com/wp-content/uploads/2023/10/devOps-trends.gif " alt="DevOps" width="400" height="400"/>
 ### 👋 Welcome to my GitHub!
-
 **🚀 DevOps | Cloud Enthusiast | AI Enthusiast**
 
    With a strong foundation in DevOps, Cloud Computing, and AI,
