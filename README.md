@@ -1,7 +1,7 @@
 ![](/assets/Yellow%20and%20Black%20Global%20Response%20Engineer%20LinkedIn%20Banner.png)
-
-
 <img align= "right" src="https://proeffico.com/wp-content/uploads/2023/10/devOps-trends.gif " alt="DevOps" width="400" height="400"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paramsd1997&label=Profile%20views&color=0e75b6&style=flat" alt="paramsd1997" /> </p>
 
 ### 👋 Welcome to my GitHub!
 
