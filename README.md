@@ -45,13 +45,13 @@ You can click the Preview link to take a look at your changes.
 - ✅ Google Cloud Certified - [Cloud Digital Leader](https://www.credly.com/badges/208a7d75-3129-4b92-99c9-f9a8d27036f4/public_url/)
 - ✅ Google Cloud Certified - [Associate Cloud Engineer](https://www.credly.com/badges/2f2188a6-3834-4abe-b8c0-f4109a09920f/public_url/)
 - ✅ Google Cloud Certified - [Professional Cloud Architect](https://www.credly.com/badges/42de5c48-011a-41cb-a617-a71cd515864d/public_url/)
+- ✅ AWS Cloud Certified    - [AWS Cloud Practitioner](https://www.credly.com/badges/66dbdcdf-82a4-4a69-b03e-42818f201e8e/linked_in_profile/)
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Certified-blue?style=flat&logo=googlecloud)
 
 ## 🌩️ DevOps Tools Certifications
 
 - ✅ GitHub  - [GitHub Foundation Certified](https://www.credly.com/badges/43b57210-1fd6-4cc9-bc24-d0af16931102/linked_in_profile/)
--
+
 
 ### 🛠 DevOps Tools:
 <p align="left">
