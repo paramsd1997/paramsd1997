@@ -50,8 +50,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 🌩️ DevOps Tools Certifications
 
-- ✅ GitHub  - [GitHub Foundation Certified](https://www.credly.com/badges/43b57210-1fd6-4cc9-bc24-d0af16931102/linked_in_profile/)
-- ✅ MongoDB - [MongoDB](https://learn.mongodb.com/c/OA0fUx-ZTMuZynrpNy0_Yw/)
+- ✅ GitHub Certified - [GitHub Foundation Certified](https://www.credly.com/badges/43b57210-1fd6-4cc9-bc24-d0af16931102/linked_in_profile/)
+- ✅ MongoDB Certified - [MongoDB SI Associate](https://learn.mongodb.com/c/OA0fUx-ZTMuZynrpNy0_Yw/)
 
 
 ### 🛠 DevOps Tools:
