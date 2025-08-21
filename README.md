@@ -1,3 +1,11 @@
+<!---
+paramsd1997/paramsd1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+[![](https://visitcount.itsvg.in/api?id=paramsd1997&label=Profile%20Views&color=3&pretty=true)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paramsd1997&label=Profile%20views&color=0e75b6&style=flat" alt="paramsd1997" /> </p>
+
+
 ![](/assets/Yellow%20and%20Black%20Global%20Response%20Engineer%20LinkedIn%20Banner.png)
 <img align= "right" src="https://proeffico.com/wp-content/uploads/2023/10/devOps-trends.gif " alt="DevOps" width="400" height="400"/>
 ### 👋 Welcome to my GitHub!
@@ -25,12 +33,7 @@ I’m always open to collaborating on exciting projects in **Cloud, DevOps, AI**
 [![Gmail](https://img.shields.io/badge/-Gmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:paramsd1997@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parmeshwar-devane-25843b175)
 
-<!---
-paramsd1997/paramsd1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![](https://visitcount.itsvg.in/api?id=paramsd1997&label=Profile%20Views&color=3&pretty=true)](https://visitcount.itsvg.in)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paramsd1997&label=Profile%20views&color=0e75b6&style=flat" alt="paramsd1997" /> </p>
+
 
 ![Github](https://img.shields.io/github/followers/paramsd1997?style=flat-square&logo=github)
 
